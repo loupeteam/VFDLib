@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?AutomationStudio Version=4.3.8.58 SP?>
+<Library Version="0.03.4" xmlns="http://br-automation.co.at/AS/Library">
+  <Files>
+    <File>VFDLib.html</File>
+    <File>VFDLib.md</File>
+    <File>VersionHistory.txt</File>
+    <File Description="Exported data types">VFDLib.typ</File>
+    <File Description="Exported constants">VFDLib.var</File>
+    <File Description="Exported functions and function blocks">VFDLib.fun</File>
+    <File Description="Exported data types">VFD_IO.typ</File>
+    <File Description="Exported data types">VFDEncoder.typ</File>
+    <File Description="Cyclic function for getting VFD speed from encoder feedback">VFD_EncoderFn_Cyclic.st</File>
+    <File Description="Exported data types">VFD.typ</File>
+    <File Description="Cyclic function for controlling one VFD">VFDFn_Cyclic.st</File>
+    <File>VFD_SetCMDD_Output_X64.st</File>
+    <File Description="This is an internal function that maps out the status from the status UINT.">VFD_GetDriveStatus.st</File>
+    <File Description="This function sets the state based on the status bits.">VFD_SetState.st</File>
+    <File Description="This functions unpacks the extended status word">VFD_GetExtendedStatus.st</File>
+    <File Description="This function sets the error text based on the LFT fault ID input.">VFD_SetFaultString.st</File>
+  </Files>
+  <Dependencies>
+    <Dependency ObjectName="ScaleLib" />
+    <Dependency ObjectName="SpdEstLib" />
+    <Dependency ObjectName="brsystem" />
+    <Dependency ObjectName="standard" />
+    <Dependency ObjectName="AsBrStr" />
+  </Dependencies>
+</Library>
