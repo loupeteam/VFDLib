@@ -1,13 +1,11 @@
-(********************************************************************
- * COPYRIGHT --  Automation Resources Group
- ********************************************************************
- * Library: VFD_Lib
+(*
  * File: VFD_IO.typ
- * Author: David
- * Created: September 03, 2010
- ********************************************************************
- * Data types of library VFD_Lib
- ********************************************************************)
+ * Copyright (c) 2023 Loupe
+ * https://loupe.team
+ * 
+ * This file is part of VFDLib, licensed under the MIT License.
+ *
+ *)
 
 TYPE
 	VFD_IO_OUT_typ : 	STRUCT 

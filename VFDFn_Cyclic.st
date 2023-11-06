@@ -1,13 +1,12 @@
-(********************************************************************
- * COPYRIGHT --  Automation Resources Group
- ********************************************************************
- * Library: VFD_Lib
+(*
  * File: VFDFn_Cyclic.st
- * Author: David
- * Created: September 07, 2010
- ********************************************************************
- * Implementation of library VFD_Lib
- ********************************************************************) 
+ * Copyright (c) 2023 Loupe
+ * https://loupe.team
+ * 
+ * This file is part of VFDLib, licensed under the MIT License.
+ *
+ *)
+
 
 
 (********************************************************************)

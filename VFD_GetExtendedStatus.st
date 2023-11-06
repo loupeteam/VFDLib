@@ -1,13 +1,11 @@
-(********************************************************************
- * COPYRIGHT --  Automation Resources Group
- ********************************************************************
- * Library: VFD_Lib
+(*
  * File: VFD_GetExtendedStatus.st
- * Author: David
- * Created: May 12, 2011
- ********************************************************************
- * Implementation of library VFD_Lib
- ********************************************************************) 
+ * Copyright (c) 2023 Loupe
+ * https://loupe.team
+ * 
+ * This file is part of VFDLib, licensed under the MIT License.
+ *
+ *)
 
 
 (********************************************************************)

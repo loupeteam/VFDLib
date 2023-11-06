@@ -1,13 +1,11 @@
-(********************************************************************
- * COPYRIGHT --  Automation Resources Group
- ********************************************************************
- * Library: VFD_Lib
- * File: VFD_Lib.fun
- * Author: David
- * Created: September 03, 2010
- ********************************************************************
- * Functions and function blocks of library VFD_Lib
- ********************************************************************)
+(*
+ * File: VFDLib.fun
+ * Copyright (c) 2023 Loupe
+ * https://loupe.team
+ * 
+ * This file is part of VFDLib, licensed under the MIT License.
+ *
+ *)
 
 FUNCTION VFDFn_Cyclic : BOOL (*Cyclic function for controlling one VFD*)
 	VAR_IN_OUT

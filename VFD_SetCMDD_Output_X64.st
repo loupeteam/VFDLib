@@ -1,13 +1,11 @@
-(********************************************************************
- * COPYRIGHT --  Automation Resources Group
- ********************************************************************
- * Library: VFD_Lib
+(*
  * File: VFD_SetCMDD_Output_X64.st
- * Author: blackburnd
- * Created: September 7, 2010
- ********************************************************************
- * Implementation of library VFD_Lib
- ********************************************************************) 
+ * Copyright (c) 2023 Loupe
+ * https://loupe.team
+ * 
+ * This file is part of VFDLib, licensed under the MIT License.
+ *
+ *)
 
 
 (************************************************************************************)

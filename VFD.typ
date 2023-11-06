@@ -1,13 +1,12 @@
-(********************************************************************
- * COPYRIGHT -- Automation Resources Group
- ********************************************************************
- * Library: VFDLib
+(*
  * File: VFD.typ
- * Author: David Blackburn
- * Created: December 21, 2011
- ********************************************************************
- * Data types of library VFDLib
- ********************************************************************)
+ * Copyright (c) 2023 Loupe
+ * https://loupe.team
+ * 
+ * This file is part of VFDLib, licensed under the MIT License.
+ *
+ *)
+
 
 TYPE
 	VFD_ST_enum : 

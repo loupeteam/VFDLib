@@ -1,13 +1,11 @@
-(********************************************************************
- * COPYRIGHT --  Automation Resources Group
- ********************************************************************
- * Library: VFD_Lib
+(*
  * File: VFDEncoder.typ
- * Author: David
- * Created: September 09, 2010
- ********************************************************************
- * Data types of library VFD_Lib
- ********************************************************************)
+ * Copyright (c) 2023 Loupe
+ * https://loupe.team
+ * 
+ * This file is part of VFDLib, licensed under the MIT License.
+ *
+ *)
 
 TYPE
 	VFD_Encoder_Internal_typ : 	STRUCT 
