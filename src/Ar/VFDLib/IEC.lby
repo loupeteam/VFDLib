@@ -4,7 +4,6 @@
   <Files>
     <File>VFDLib.html</File>
     <File>VFDLib.md</File>
-    <File>VersionHistory.txt</File>
     <File Description="Exported data types">VFDLib.typ</File>
     <File Description="Exported constants">VFDLib.var</File>
     <File Description="Exported functions and function blocks">VFDLib.fun</File>
