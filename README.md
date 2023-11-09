@@ -7,6 +7,9 @@ info@loupe.team
 # Description
 The VFDLib library provides a clean interface for basic control of variable frequency drives (VFDs).
 
+# Use Cases
+The VFDLib functionality can be integrated into any project using a data structure and a function call.
+
 For more documentation and examples, see https://loupeteam.github.io/LoupeDocs/libraries/vfdlib.html
 
 # Installation
