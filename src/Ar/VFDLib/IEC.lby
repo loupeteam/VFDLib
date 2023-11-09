@@ -2,7 +2,6 @@
 <?AutomationStudio Version=4.3.8.58 SP?>
 <Library Version="0.03.4" xmlns="http://br-automation.co.at/AS/Library">
   <Files>
-    <File>VFDLib.html</File>
     <File Description="Exported data types">VFDLib.typ</File>
     <File Description="Exported constants">VFDLib.var</File>
     <File Description="Exported functions and function blocks">VFDLib.fun</File>
