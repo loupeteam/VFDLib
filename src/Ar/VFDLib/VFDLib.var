@@ -1,0 +1,19 @@
+(*
+ * File: VFDLib.var
+ * Copyright (c) 2023 Loupe
+ * https://loupe.team
+ * 
+ * This file is part of VFDLib, licensed under the MIT License.
+ *
+ *)
+(*Control Word Bits*)
+VAR CONSTANT
+	VFD_STRLEN_ERROR : USINT := 80;
+	VFD_CTRLBIT_SWON : USINT := 0;
+	VFD_CTRLBIT_DISABLEVOLTAGE : USINT := 1;
+	VFD_CTRLBIT_QUICKSTOP : USINT := 2;
+	VFD_CTRLBIT_ENABLEOPERATION : USINT := 3;
+	VFD_CTRLBIT_FAULTRESET : USINT := 7;
+	VFD_CTRLBIT_REV : USINT := 11;
+	VFD_CTRLBIT_STOP_STT : USINT := 12;
+END_VAR
