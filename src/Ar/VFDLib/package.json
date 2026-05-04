@@ -1,0 +1,21 @@
+{
+  "name": "@loupeteam/vfdlib",
+  "version": "0.0.0",
+  "description": "VFD control library for B&R Automation Studio (IEC library)",
+  "homepage": "https://loupe.team",
+  "scripts": {},
+  "keywords": [],
+  "author": "Loupe",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/loupeteam/VFDLib"
+  },
+  "lpm": {
+    "type": "library"
+  },
+  "dependencies": {
+    "@loupeteam/scalelib": ">=1.0.0",
+    "@loupeteam/spdestlib": ">=1.0.0"
+  }
+}
