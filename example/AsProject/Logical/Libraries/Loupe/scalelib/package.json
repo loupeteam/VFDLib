@@ -1,7 +1,7 @@
 {
   "name": "@loupeteam/scalelib",
-  "version": "0.1.0",
-  "description": "Loupe's scalelib library for Automation Runtime",
+  "version": "1.0.0",
+  "description": "Scaling and unit conversion functions for B&R Automation Studio (IEC library)",
   "homepage": "https://loupeteam.github.io/LoupeDocs/libraries/scalelib.html",
   "scripts": {},
   "keywords": [],
@@ -9,7 +9,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/loupeteam/scalelib"
+    "url": "https://github.com/loupeteam/ScaleLib"
   },
   "lpm": {
     "type": "library"
