@@ -1,3 +1,5 @@
+1.0.0 - Migrated to Automation Studio 6 (AS6); major version bump for breaking platform compatibility. Bumped ScaleLib and SpdEstLib dependency floors to 1.0.0.
+
 0.3.4 - Migrate from AsString to AsBrStr
 
 0.03.3 - 20110507 - Added documentation.

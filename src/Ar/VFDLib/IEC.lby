@@ -1,6 +1,6 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?AutomationStudio Version=4.3.8.58 SP?>
-<Library Version="0.03.4" xmlns="http://br-automation.co.at/AS/Library">
+<Library Version="1.0.0" xmlns="http://br-automation.co.at/AS/Library">
   <Files>
     <File Description="Exported data types">VFDLib.typ</File>
     <File Description="Exported constants">VFDLib.var</File>
@@ -17,8 +17,8 @@
     <File Description="This function sets the error text based on the LFT fault ID input.">VFD_SetFaultString.st</File>
   </Files>
   <Dependencies>
-    <Dependency ObjectName="ScaleLib" />
-    <Dependency ObjectName="SpdEstLib" />
+    <Dependency ObjectName="ScaleLib" FromVersion="1.0.0" />
+    <Dependency ObjectName="SpdEstLib" FromVersion="1.0.0" />
     <Dependency ObjectName="brsystem" />
     <Dependency ObjectName="standard" />
     <Dependency ObjectName="AsBrStr" />
